@@ -1,0 +1,15 @@
+C:\code\AulaUdemyContrato\AulaUdemyContrato\bin\Debug\net6.0\AulaUdemyContrato.exe
+C:\code\AulaUdemyContrato\AulaUdemyContrato\bin\Debug\net6.0\AulaUdemyContrato.deps.json
+C:\code\AulaUdemyContrato\AulaUdemyContrato\bin\Debug\net6.0\AulaUdemyContrato.runtimeconfig.json
+C:\code\AulaUdemyContrato\AulaUdemyContrato\bin\Debug\net6.0\AulaUdemyContrato.dll
+C:\code\AulaUdemyContrato\AulaUdemyContrato\bin\Debug\net6.0\AulaUdemyContrato.pdb
+C:\code\AulaUdemyContrato\AulaUdemyContrato\obj\Debug\net6.0\AulaUdemyContrato.csproj.AssemblyReference.cache
+C:\code\AulaUdemyContrato\AulaUdemyContrato\obj\Debug\net6.0\AulaUdemyContrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\AulaUdemyContrato\AulaUdemyContrato\obj\Debug\net6.0\AulaUdemyContrato.AssemblyInfoInputs.cache
+C:\code\AulaUdemyContrato\AulaUdemyContrato\obj\Debug\net6.0\AulaUdemyContrato.AssemblyInfo.cs
+C:\code\AulaUdemyContrato\AulaUdemyContrato\obj\Debug\net6.0\AulaUdemyContrato.csproj.CoreCompileInputs.cache
+C:\code\AulaUdemyContrato\AulaUdemyContrato\obj\Debug\net6.0\AulaUdemyContrato.dll
+C:\code\AulaUdemyContrato\AulaUdemyContrato\obj\Debug\net6.0\refint\AulaUdemyContrato.dll
+C:\code\AulaUdemyContrato\AulaUdemyContrato\obj\Debug\net6.0\AulaUdemyContrato.pdb
+C:\code\AulaUdemyContrato\AulaUdemyContrato\obj\Debug\net6.0\AulaUdemyContrato.genruntimeconfig.cache
+C:\code\AulaUdemyContrato\AulaUdemyContrato\obj\Debug\net6.0\ref\AulaUdemyContrato.dll
